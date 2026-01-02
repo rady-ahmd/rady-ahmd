@@ -1,5 +1,9 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>Technical projects and web apps<br><br>👯 I’m looking to collaborate on  <br>Full-Stack and AI/ML projects<br><br>🌱 I’m currently learning  <br>C++, Python, React, Next.js, TypeScript<br><br>💬 Ask me about  <br>Web development, programming, and AI<br><br>⚡ Fun fact  <br>I enjoy building while learning new tech<br>
+
+<br>🔭 I’m currently working on  <br>Technical projects and web apps<br>
+<br>👯I’m looking to collaborate on  <br>Full-Stack and AI/ML projects<br>
+<br>🌱I’m currently learning  <br>C++, Python, React, Next.js, TypeScript<br>
+<br>💬 Ask me about  <br>Web development, programming, and AI<br>
+<br>⚡ Fun fact  <br>I enjoy building while learning new tech<br>
 
 
 ## 🌐 Socials:
